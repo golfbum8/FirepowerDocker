@@ -12,7 +12,7 @@ RUN yum install -y npm
 COPY . /src
 
 # Install app and dependencies into /src
-RUN cd /src; npm install
+RUN cd /src; npm install npm -g
 
 EXPOSE 8888
 
