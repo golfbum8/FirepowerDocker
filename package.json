@@ -7,9 +7,9 @@
   "author": "AC <alnchen@hotmail.com>",
   "license": "You'd have to be mad to use this in production :-D",
   "dependencies": {
-    "express": "3.2.4",
+    "express": "4.16.3",
     "pug": "2.0.3",
     "mocha": "4.1.0",
-    "supertest": "1.1.0"
+    "supertest": "3.1.0"
   }
 }
